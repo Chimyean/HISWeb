@@ -1,6 +1,6 @@
 # web_xxxt
 
-> A Vue.js project
+> A Vue.js project about HIS.
 
 ## Build Setup
 
